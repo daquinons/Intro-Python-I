@@ -24,7 +24,7 @@ def sieve_of_erasthotenes(number):
     return primes
 
 
-print(sieve_of_erasthotenes(100))
+#print(sieve_of_erasthotenes(100))
 
 if __name__ == "__main__":
     try:
